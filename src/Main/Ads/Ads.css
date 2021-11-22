@@ -1,0 +1,9 @@
+.ad {
+  /* border:deeppink;
+    border-width: 5px; */
+  background-color: deepskyblue;
+  margin: 10px;
+  flex-grow: 1;
+  border-style: solid;
+  border-width: 5px;
+}
