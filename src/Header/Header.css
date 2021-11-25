@@ -9,18 +9,10 @@
 }
 
 .main-menu > li {
-  /* box-sizing: border-box; */
-  /* height: var(--menu-item-size);
-    width: calc(3.5 * var(--menu-item-size));   */
-  /* line-height: var(--menu-item-size); */
   padding: 0 2em;
   margin: 1px;
-  /* transition: 0.5s linear all; */
-  /* background: var(--green-color);
-    color: var(--dark-green-color); */
   cursor: pointer;
   font-size: 16px;
-  /* user-select: none; */
 }
 .icon {
   border-radius: 50%;
